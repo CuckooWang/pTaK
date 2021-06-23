@@ -15,7 +15,7 @@ These files contain the normalized intensities of p-sites from HCC1 and NAT1 sam
 ### psite_ELM.igps.txt
 Site-specific kinase-substrate relations (ssKSRs) predicted by iGPS 1.0 (http://igps.biocuckoo.org/).
 ### Chisuqare_out.txt
-The results of kinases that significantlyh activated or inhibited in HCC1 samples calculated by Chisquanre.java.
+The results of kinases that significantly activated or inhibited in HCC1 samples calculated by Chisquanre.java.
 
 ## Software Requirements
 ### OS Requirements
