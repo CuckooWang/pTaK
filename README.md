@@ -33,8 +33,8 @@ All codes can run directly on a "normal" computer with JAVA 1.8.0 installed, no 
 Expected run time is depended on the number of phosphosites used for prediction, it will take about 5 minutes for 2,000 sites.
 ## Contact
 Dr. Yu Xue: xueyu@hust.edu.cn  
-Dr. Ping Xu: xuping@mail.ncpsb.org 
-Chenwei Wang: wangchenwei@hust.edu.cn
+Dr. Ping Xu: xuping@mail.ncpsb.org  
+Chenwei Wang: wangchenwei@hust.edu.cn  
 Yao Zhang: zhangyaowsw@163.com
 
 
